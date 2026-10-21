@@ -40,9 +40,9 @@ O contexto de uso no celular não tem nada a ver com o do desktop. Muitas vezes 
   <img src="docs/apps/instagram2.jpeg" width="250" />
 
 * **Análise de 3 pontos da fundamentação:**
-  1. *Restrições (Rede instável):* O Instagram utiliza cache local agressivo de imagens e vídeos já visualizados. Se você perder o sinal de internet, ainda consegue navegar pelo feed carregado recentemente, além de enfileirar curtidas e comentários para serem enviados assim que a conexão voltar.
-  2. *UX mobile (Zona do polegar):* A barra de navegação principal (Início, Reels, Criar, Notificações e Perfil) fica posicionada na extremidade inferior da tela, garantindo acesso rápido e confortável com apenas uma mão.
-  3. *Permissões:* Solicita acesso à câmera e ao microfone apenas no momento em que o usuário tenta criar um Story ou gravar um Reel, explicando de forma contextualizada o porquê da exigência.
+  1 *Restrições (Rede instável):* O Instagram utiliza cache local agressivo de imagens e vídeos já visualizados. Se você perder o sinal de internet, ainda consegue navegar pelo feed carregado recentemente, além de enfileirar curtidas e comentários para serem enviados assim que a conexão voltar.
+  2 *UX mobile (Zona do polegar):* A barra de navegação principal (Início, Reels, Criar, Notificações e Perfil) fica posicionada na extremidade inferior da tela, garantindo acesso rápido e confortável com apenas uma mão.
+  3 *Permissões:* Solicita acesso à câmera e ao microfone apenas no momento em que o usuário tenta criar um Story ou gravar um Reel, explicando de forma contextualizada o porquê da exigência.
 
 * **Comparação Web (Instagram Web):** A versão web prioriza a visualização de fotos e mensagens em telas grandes com teclado físico, mas possui limitações drásticas em recursos nativos, como a impossibilidade de publicar Stories ou Reels diretamente da câmera do computador com a mesma fluidez do app.
 
@@ -53,8 +53,8 @@ O contexto de uso no celular não tem nada a ver com o do desktop. Muitas vezes 
   <img src="docs/apps/shopee2.jpeg" width="250" />
 
 * **Análise de 3 pontos da fundamentação:**
-  1. *Ciclo de vida do aplicativo:* Quando o usuário sai do app para responder a uma mensagem ou verificar um pagamento em outro aplicativo, a Shopee gerencia o estado mantendo o carrinho de compras salvo localmente, evitando a perda de itens selecionados caso o sistema operacional encerre o processo por falta de memória RAM.
-  2. *Entrada e Interação:* O fluxo de busca e aplicação de cupons utiliza botões grandes de toque e carrosséis horizontais otimizados para gestos de *swipe* com o polegar.
-  3. *Restrições (Conectividade e Desempenho):* Como é um e-commerce pesado com muitas imagens de produtos, o app utiliza carregamento progressivo (*lazy loading*) para economizar dados móveis e evitar travamentos em celulares intermediários ou de entrada.
+  1 *Ciclo de vida do aplicativo:* Quando o usuário sai do app para responder a uma mensagem ou verificar um pagamento em outro aplicativo, a Shopee gerencia o estado mantendo o carrinho de compras salvo localmente, evitando a perda de itens selecionados caso o sistema operacional encerre o processo por falta de memória RAM.
+  2 *Entrada e Interação:* O fluxo de busca e aplicação de cupons utiliza botões grandes de toque e carrosséis horizontais otimizados para gestos de *swipe* com o polegar.
+  3 *Restrições (Conectividade e Desempenho):* Como é um e-commerce pesado com muitas imagens de produtos, o app utiliza carregamento progressivo (*lazy loading*) para economizar dados móveis e evitar travamentos em celulares intermediários ou de entrada.
 
 * **Comparação Web (Shopee Web):** A versão web é voltada para buscas detalhadas, comparação de preços em abas diferentes e digitação facilitada de cupons e endereços, enquanto o aplicativo foca em notificações push personalizadas, jogos promocionais e checkouts rápidos vinculados a carteiras digitais do celular.
