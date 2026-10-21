@@ -36,8 +36,8 @@ O contexto de uso no celular não tem nada a ver com o do desktop. Muitas vezes 
 ### Aplicativo 1: Instagram
 * **Prints:**
   <br>
-  <img src="docs/apps/instagram1.png" width="250" />
-  <img src="docs/apps/instagram2.png" width="250" />
+  <img src="docs/apps/instagram1.jpeg" width="250" />
+  <img src="docs/apps/instagram2.jpeg" width="250" />
 
 * **Análise de 3 pontos da fundamentação:**
   1. *Restrições (Rede instável):* O Instagram utiliza cache local agressivo de imagens e vídeos já visualizados. Se você perder o sinal de internet, ainda consegue navegar pelo feed carregado recentemente, além de enfileirar curtidas e comentários para serem enviados assim que a conexão voltar.
@@ -49,8 +49,8 @@ O contexto de uso no celular não tem nada a ver com o do desktop. Muitas vezes 
 ### Aplicativo 2: Shopee
 * **Prints:**
   <br>
-  <img src="docs/apps/shopee1.png" width="250" />
-  <img src="docs/apps/shopee2.png" width="250" />
+  <img src="docs/apps/shopee1.jpeg" width="250" />
+  <img src="docs/apps/shopee2.jpeg" width="250" />
 
 * **Análise de 3 pontos da fundamentação:**
   1. *Ciclo de vida do aplicativo:* Quando o usuário sai do app para responder a uma mensagem ou verificar um pagamento em outro aplicativo, a Shopee gerencia o estado mantendo o carrinho de compras salvo localmente, evitando a perda de itens selecionados caso o sistema operacional encerre o processo por falta de memória RAM.
